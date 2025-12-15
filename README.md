@@ -1,4 +1,4 @@
-# 🐱‍👤 About Me:
+# 😊 About Me:
 
 Hi, I'm Prakash | **Prakash2e64@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-mawliya&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-mawliya" /> </p>
