@@ -4,7 +4,7 @@ Hi, I'm Prakash | **Prakash2e64@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-mawliya&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-mawliya" /> </p>
 
 I'm currently pursuing a B.Tech in Computer Science Engineering from GKV Haridwar.  
-I have a strong interest in **MERN Stack Development**, **Machine Learning**, and I enjoy building **web applications** and **ML models**.
+I have a strong interest in **MERN Stack Development**, **Machine Learning**,and **Data Analyst** and I enjoy building **web applications** and **ML models**.
 
 Apart from coding, I love playing cricket, which helps me stay active and balanced.
 
